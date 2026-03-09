@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AniRestore</string>
+    <string name="app_title">AniUnpixelate.</string>
+    <string name="app_subtitle">Anime Image Restoration</string>
+    <string name="btn_open_gallery">Import Anime Photo</string>
+    <string name="instruction_selection">Isolate Pixelated Area</string>
+    <string name="btn_continue">Continue</string>
+    <string name="status_fluid_logic">Fluid Logic Computing…</string>
+    <string name="status_initializing">Initializing Neural Core…</string>
+    <string name="status_waking_ai">Waking AI Restorer…</string>
+    <string name="status_processing">Processing Image…</string>
+    <string name="status_complete">Restoration Complete</string>
+    <string name="btn_refine_area">Refine Area</string>
+    <string name="btn_action_unpixelate">Unpixelate</string>
+    <string name="error_load_image">Failed to load image</string>
+    <string name="error_model_fail">Model load failed</string>
+    <string name="msg_select_area">Please select an area first</string>
+    <string name="status_loading_weights">Loading neural weights…</string>
+    <string name="status_performing_magic">Performing unpixelation magic…</string>
+    <string name="msg_save_success">Success! Image saved to Gallery</string>
+    <string name="error_save_fail">Save failed: %s</string>
+    <string name="error_process_fail_ext">Processing failed: %s</string>
+
+    <!-- Disclaimer & Privacy -->
+    <string name="disclaimer_title">Legal Disclaimer &amp; Privacy</string>
+    <string name="disclaimer_content">This project explores deep learning in image encryption/decryption for research in networking and security.\n\nPROHIBITED: Illegal usage is strictly forbidden. Users hold full responsibility for their actions.\n\nLIMITATION: To prevent abuse, this demo only supports Anime/CGI style image restoration.</string>
+    <string name="btn_agree">I Agree</string>
+    <string name="btn_exit">Exit</string>
+</resources>
