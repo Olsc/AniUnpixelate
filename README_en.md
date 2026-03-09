@@ -6,6 +6,9 @@
 
 **AniRestore (AniUnpixelate)** is an AI-powered restoration tool specifically designed for anime-style illustrations and CGI art. It leverages deep neural networks to intelligently repair and fill in pixelated or mosaic areas in images.
 
+> [!IMPORTANT]
+> **Technical Note**: The AI model used in this project is **NOT a generative model**. It does not "re-draw" or "imagine" new content from scratch. Instead, it utilizes deep convolutional algorithms to analyze the color distribution and structural patterns within pixelated blocks to **reconstruct/restore the underlying color information and original visual composition**.
+
 ## 🌟 Key Features
 
 - **AI-Powered Unpixelating**: Uses pre-trained deep convolutional neural networks for texture synthesis in missing pixel areas.
