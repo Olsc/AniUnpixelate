@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">次元修复</string>
+    <string name="app_title">AniUnpixelate.</string>
+    <string name="app_subtitle">动漫图像 AI 修复</string>
+    <string name="btn_open_gallery">导入动漫图片</string>
+    <string name="instruction_selection">请框选像素化区域</string>
+    <string name="btn_continue">继续</string>
+    <string name="status_fluid_logic">流体逻辑计算中…</string>
+    <string name="status_initializing">正在初始化核心…</string>
+    <string name="status_waking_ai">唤醒 AI 修复引擎…</string>
+    <string name="status_processing">图像处理中…</string>
+    <string name="status_complete">修复完成</string>
+    <string name="btn_refine_area">调整区域</string>
+    <string name="btn_action_unpixelate">开始修复</string>
+    <string name="error_load_image">图像加载失败</string>
+    <string name="error_model_fail">模型加载失败</string>
+    <string name="msg_select_area">请先选择需要修复的区域</string>
+    <string name="status_loading_weights">正在加载神经元权重…</string>
+    <string name="status_performing_magic">正在施展 AI 修复魔法…</string>
+    <string name="msg_save_success">保存成功！图像已存入相册</string>
+    <string name="error_save_fail">保存失败：%s</string>
+    <string name="error_process_fail_ext">处理失败：%s</string>
+
+    <!-- 免责声明与隐私 -->
+    <string name="disclaimer_title">隐私说明与免责声明</string>
+    <string name="disclaimer_content">本项目旨在探索图像加密解密在深度学习领域的潜在问题，以及在网络传播、安全领域的运用。\n\n【严禁违法】严禁将本项目用于任何违法违规用途，否则后果自负，开发者不承担任何法律责任。\n\n【技术限制】为防止技术滥用，本示例版本仅支持对二次元/动漫类型的图像进行修复演示。</string>
+    <string name="btn_agree">同意并继续</string>
+    <string name="btn_exit">退出应用合</string>
+</resources>
